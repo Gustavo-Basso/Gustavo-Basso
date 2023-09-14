@@ -11,7 +11,7 @@
   <li>👋 Hi, I’m @Gustavo-Basso</li>
   <li>💚 I'm brazillian</li>
   <li>👀 I’m interested in be a datascientist or work as a fullstack programmer;</li>
-  <li>🌱 I’m currently learning HTML,CSS,JS,Python;</li>
+  <li>🌱 I’m currently learning C#;</li>
   <li>💞️ I’m looking for knowledge and work at Google;</li>
   <li>✨ I'm not a good english speaker but I'll be;</li>
   <li>🎵 I'm a music lover, I LOVE TO LISTEN TO BOSSA NOVA specifically songs singed by João Gilberto</li>
